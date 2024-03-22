@@ -1,7 +1,7 @@
 # Piano App
 
 ## Credit
-* Programmer [Vishal M.](https://github.com/VishalMehta06/)
+* Programmer: [Vishal M.](https://github.com/VishalMehta06/)
 * Contributior: [Brayden D.](https://github.com/Brayden039)
 
 ## Installation
