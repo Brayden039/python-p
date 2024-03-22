@@ -1,4 +1,4 @@
-# Piano App
+# Piano Application
 
 ## Credit
 * Programmer: [Vishal M.](https://github.com/VishalMehta06/)
